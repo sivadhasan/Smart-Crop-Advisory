@@ -59,7 +59,7 @@ const Welcome = () => {
             </TouchableOpacity>
           </View>
 
-          <Text style={styles.heroFooter}>Smart India Hackathon 2025 • Available in Hindi, English & Regional Languages</Text>
+          <Text style={styles.heroFooter}>Available in Hindi, English & Regional Languages</Text>
         </View>
       </ImageBackground>
 
